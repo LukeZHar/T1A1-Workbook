@@ -10,15 +10,15 @@ Common Markup Languages:
 - HTML (HyperText Markup Language): The most widely used markup language for web pages. It defines the structure, layout, and basic content of a page.
 
   - Updated HTML to HTML5:  
-    HTML5 is the latest version of HTML, introducing new elements and attributes to improve web functionality.
+    HTML5 is the latest version of HTML, introducing new elements and attributes to improve web functionality.  
+    
+    - Semantic Elements: These elements provide better structure and meaning, like header, footer, article, section.
 
-        - Semantic Elements: These elements provide better structure and meaning, like <header, <footer, <article, <section.
+    - Multimedia Elements: New tags for bringing in media, like audio, video.
 
-        - Multimedia Elements: New tags for bringing in media, like audio, video.
+    - Form Elements: Improved form controls with new input types, like input type="date", input type="email".
 
-        - Form Elements: Improved form controls with new input types, like <input type="date", <input type="email".
-
-        - Data Storage: Uses SQL, local, and application cache to temporarily store data.
+    - Data Storage: Uses SQL, local, and application cache to temporarily store data.
 
 - XML (Extensible Markup Language): Used for data storage and exchange. XML doesn't use pre-defined tags it allows you to create custom tags and define structured data. 
 
@@ -390,17 +390,27 @@ JavaScript:
 
 Dear Alex,
 
-Thank you for reaching out to me regarding the website for the Super Awesome Museum (SAM). I'm glad to hear about the exciting displays at SAM and to help connect visitors through the development of a website.
+Thank you for reaching out to me regarding the website for the Super Awesome Museum (SAM). I'm glad to hear about the exciting displays at SAM and I am eager help connect visitors through the development of a website.
 
 To touch base about the requirements for the website, which include showcasing the museum's exhibits and artefacts, providing directions to the museum, and offering a means for visitors to contact the museum. I have thought of some ideas that aligns with these requests.
+
+We could use WordPress as the platform for developing the website given it's versatility and ease of use. For hosting, i suggest using a relaible platform such as Bluehost or SiteGround to ensure robust performance and security.
 
 I propose incorporating features like an interactive map for directions, a blog for all of SAM’s artefacts and exhibits, and a contact form for users to send enquiries, this will help keep engagement on the website and improve accessibility for everyone.
 
 I would be more than happy to discuss further details and collaborate closely with you to bring SAM's online presence to life. Please feel free to share any specific preferences or additional requirements you may have for the website.
 Looking forward to the opportunity to work together.
 
-Kind regards,
+Kind regards,  
 Luke H
+
+### Reference Websites
+
+- https://www.bluehost.com/
+
+- https://au.siteground.com/
+
+- https://wordpress.com/
 
 ---
 
@@ -418,7 +428,7 @@ Reflecting on my portfolio project involving HTML/CSS using the Gibbs Reflective
 
     - Improvements:
 
-      - Responsive Design: I would also improve the responsiveness of the website. I would have implemented more media types and different layouts like Grid on some pages and flexbox on the others.
+      - Responsive Design: I would improve the responsiveness of the website. I would have implemented more media types and different layouts like Grid on some pages and flexbox on the others.
 
       - Accessibility: I would pay more attention to ensure the website is more accessible and easy to use for all users, including those with disabilities.
 
@@ -450,7 +460,7 @@ Reflecting on my portfolio project involving HTML/CSS using the Gibbs Reflective
 
 ### References:
 
-- Gibbs relfection
+- Gibbs' Reflective cycle
 
   - Main, P. (2023). Gibbs’ Reflective Cycle. [online] Structural Learning. Available at: https://www.structural-learning.com/post/gibbs-reflective-cycle.
 
@@ -470,9 +480,13 @@ Reflecting on my portfolio project involving HTML/CSS using the Gibbs Reflective
 
 - Coder Academy Discord: Talk with other students and teachers, go to events that have been sent in the chat, or organise meet-ups.
 
+- Local tech-based meetups/events: Look for meetup's and conventions focused around technology E.g on Lookahead you can see meetups in brisbane and what the topic is.
+
 ### References to different outlined websites above:
 
 - https://au.linkedin.com/
+
+- https://www.lookahead.com.au/blog/tech-events-meetups
 
 - https://www.meetup.com/
 
@@ -482,8 +496,6 @@ Reflecting on my portfolio project involving HTML/CSS using the Gibbs Reflective
 
 ### Q9 Explain the uses of language-learning model technologies (such as ChatGPT) on written and technical works, such as reports and software projects.
 
-- Generating Content: These models can assist in generating written content for reports by providing suggestions, summaries, or even full paragraphs based on the input provided.
-
 - Proofreading and Editing: Language models can also help in proofreading and editing written work by identifying grammar mistakes, suggesting alternative word choices, and improving overall readability.
 
 - Technical Assistance: For software projects, language models can aid in explaining complex technical concepts in simpler terms, assisting in writing clean and concise code documentation, and even providing solutions or troubleshooting tips for coding issues.
@@ -491,6 +503,8 @@ Reflecting on my portfolio project involving HTML/CSS using the Gibbs Reflective
 - Enhancing Communication: These technologies can improve communication within a team by assisting in generating responses to queries, clarifying technical jargon, and help to create smoother collaboration on projects.
 
 - Research and Information Retrieval: ChatGPT and similar models can fetch relevant information, aiding in research for reports or finding solutions to technical problems in software projects by shifting through vast amounts of data.
+
+- Generating Content: These models can assist in generating written content for reports by providing suggestions, summaries, or even full paragraphs based on the input provided.
 
 ### References:
 
@@ -517,6 +531,8 @@ Ethical Impacts:
 - Misinformation: These models can generate false information, leading to ethical concerns if not validated and fact-checked.
 
 - Transparency: Ensuring transparency in the use of these technologies is crucial to maintain trust and ethical standards in reporting and software development.
+
+- Plagiarism: Ai might produce answers or content that coders, writer's or artists have created, which definitely creates ethical concerns.  
 
 ### References:
 
@@ -581,7 +597,7 @@ Hard Skills:
 - Database Management:
   - SQL and NoSQL Databases: Understanding how to design, implement, and query databases is fundamental for developing applications that handle data. Proficiency in both SQL (e.g., MySQL, PostgreSQL) and NoSQL (e.g., MongoDB, Cassandra) databases can be particularly valuable.
 
-### Reference:
+### References:
 
 - Codemotion (2023). Trending Hard Skills and Soft Skills In Software Development. [online] Codemotion Magazine. Available at: https://www.codemotion.com/magazine/it-careers/trending-hard-skills-and-soft-skills-in-software-development/.
 
@@ -642,4 +658,4 @@ Hard Skills:
 
 https://www.grammarly.com/ (To help with grammar, spell checks and formatting)
 
-https://www.mybib.com/ (To help with creating harvard style refrences)
+https://www.mybib.com/ (To help with creating harvard style references)
