@@ -563,5 +563,7 @@ Hard Skills:
 
 ---
 
-### Extra Reference for reference style
-https://www.mybib.com/ 
+### Extra References
+https://www.grammarly.com/ (To help with grammar, spell checks and formatting)
+
+https://www.mybib.com/ (To help with creating harvard style refrences) 
