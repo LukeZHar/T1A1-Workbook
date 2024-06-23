@@ -4,9 +4,9 @@
 
 What are Markup Languages?
 
-Markup languages are the foundation of web pages. They define the structure and content of a webpage, telling web browsers how to display information.
-Common Markup Languages:
+Markup languages are the foundation of web pages. They define the structure and content of a webpage, they also tell web browsers how to display information.  
 
+Common Markup Languages:
 - HTML (HyperText Markup Language): The most widely used markup language for web pages. It defines the structure, layout, and basic content of a page.
 
   - Updated HTML to HTML5:  
@@ -20,7 +20,7 @@ Common Markup Languages:
 
         - Data Storage: Uses SQL, local, and application cache to temporarily store data.
 
-- XML (Extensible Markup Language): Used for data storage and exchange. XML allows you to create custom tags and define structured data.
+- XML (Extensible Markup Language): Used for data storage and exchange. XML doesn't use pre-defined tags it allows you to create custom tags and define structured data. 
 
 ### Key Components and Concepts:
 
@@ -37,8 +37,6 @@ Common Markup Languages:
 - Attributes: Attributes provide additional information about an element. They come in key-value pairs within the opening tag. For example, img src="image.jpg" alt="A picture of me" defines an image with a source and an alternative text description.
 
 - Content: The text, images, videos, and other data that appear on a webpage are called content. It's enclosed within the opening and closing tags of an element.
-
-- Data Storage: Uses cookies and browser cache to temporarily store data.
 
 - CSS Styling: CSS is used to style and layout web pages. It controls the design, layout, and visual effects of web content written in HTML. Through the use of selectors, these are used to target HTML elements, like .class, #id, element, etc.
 
@@ -133,7 +131,7 @@ IP Addresses (IPv4 and IPv6):
 
   - Unique Identification: Both IPv4 and IPv6 provide unique addresses for devices connected to the internet, facilitating accurate data routing.
 
-  - IPv4: Addresses are designed in a 32-bit binary format, allowing for approximately 4.3 billion (2^32) unique addresses. A complete 32-bit address consists of two main parts:
+  - IPv4: Addresses are designed in a 32-bit binary format, allowing for roughly 4.3 billion (2^32) unique addresses. A complete 32-bit address consists of two main parts:
 
     - Network Prefix: Hosts within a single network share the same network address.
     - Host Number: Host has a unique address that identifies it within the network.
@@ -484,15 +482,15 @@ Reflecting on my portfolio project involving HTML/CSS using the Gibbs Reflective
 
 ### Q9 Explain the uses of language-learning model technologies (such as ChatGPT) on written and technical works, such as reports and software projects.
 
-- Generating Content: These models can assist in generating written content for reports by providing suggestions, summaries, or even full paragraphs based on the input provided. This can save time and help in generating more diverse content efficiently.
+- Generating Content: These models can assist in generating written content for reports by providing suggestions, summaries, or even full paragraphs based on the input provided.
 
-- Proofreading and Editing: Language models can also help in proofreading and editing written work by identifying grammar mistakes, suggesting alternative word choices, and improving overall readability, which is crucial for technical reports and documentation.
+- Proofreading and Editing: Language models can also help in proofreading and editing written work by identifying grammar mistakes, suggesting alternative word choices, and improving overall readability.
 
 - Technical Assistance: For software projects, language models can aid in explaining complex technical concepts in simpler terms, assisting in writing clean and concise code documentation, and even providing solutions or troubleshooting tips for coding issues.
 
-- Enhancing Communication: These technologies can improve communication within a team by assisting in generating responses to queries, clarifying technical jargon, and facilitating smoother collaboration on projects.
+- Enhancing Communication: These technologies can improve communication within a team by assisting in generating responses to queries, clarifying technical jargon, and help to create smoother collaboration on projects.
 
-- Research and Information Retrieval: ChatGPT and similar models can fetch relevant information quickly, aiding in research for reports or finding solutions to technical problems in software projects by parsing through vast amounts of data.
+- Research and Information Retrieval: ChatGPT and similar models can fetch relevant information, aiding in research for reports or finding solutions to technical problems in software projects by shifting through vast amounts of data.
 
 ### References:
 
